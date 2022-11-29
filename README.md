@@ -2,6 +2,6 @@
 
 <div>
 🌐 Socials:
-  <a href=""><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=WebSite&logoColor=white"</a>
+  <a href=""><img src="https://img.shields.io/badge/Site-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"</a>
 📊 GitHub Stats:
 💻 Habilidades:
