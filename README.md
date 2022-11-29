@@ -1,6 +1,11 @@
 <h3>🌐 Social:</h3>
 <div>
-  <p>Olá</p>
+<p>
+  Olá, sou o Rafael Drigo!
+  Gosto de sempre estar buscando novos estudos, pois o item mais valioso que o ser humano pode oferecer é o Conhecimento.
+  Atualmente estou Cursando Bacharelado de Engenharia de Software na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>, e para complementar estou cursando outros cursos na Plataforma <a href=https://www.alura.com.br/>Alura</a> 
+</p>
+<p>Conecte-se comigo nas plataformas:</p>
   <a href="https://rdrigos.github.io/id_card/"><img src="https://img.shields.io/badge/Web Site-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"></a>
   <a href="mailto:"rafaeldrigo@outlook.com.br""><img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rafaeldrigo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
