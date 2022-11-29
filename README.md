@@ -1,6 +1,4 @@
-## Oi, eu sou o Rafael Drigo!
-
-🌐 Social:
+<h3>🌐 Social:</h3>
 <div>
   <p>Olá</p>
   <a href="https://rdrigos.github.io/id_card/"><img src="https://img.shields.io/badge/Web Site-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"></a>
@@ -12,16 +10,16 @@
 
 ##
 
-💻 Habilidades:
+<h3>💻 Minhas Habilidades:</h3>
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
  ##
-📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrigoS&theme=blue-green">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDrigoS&theme=blue-green">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrigoS&theme=blue-green">
 </div>
 
 ##
