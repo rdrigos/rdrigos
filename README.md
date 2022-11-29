@@ -23,3 +23,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrigoS&theme=blue-green">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDrigoS&theme=blue-green">
 </div>
+
+##
+
+<div>
+  <p>"Se você é obstinado e sabe aprender rápido, é porque você aguenta as quedas para chegar ao seu objetivo" Guilherme Benchimol, CEO da XP Inc.</p>
+</div>
