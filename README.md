@@ -23,8 +23,8 @@
  ##
 <h3>📊 GitHub Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDrigoS&theme=blue-green">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrigoS&theme=blue-green">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrigos&theme=blue-green">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigos&theme=blue-green">
 </div>
 
 ##
