@@ -21,7 +21,7 @@
   <img aling="center" alt="Rafa-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
- ##
+##
 <h3>📊 GitHub Stats:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrigos&theme=blue-green">
